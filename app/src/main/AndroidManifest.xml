@@ -10,6 +10,8 @@
         android:theme="@style/AppTheme">
         <activity android:name="com.ominext.sample.MainActivity"></activity>
         <activity android:name="com.ominext.sample.activity.KCPCalendarActivity">
+        </activity>
+        <activity android:name=".activity.SKPCalendarActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
